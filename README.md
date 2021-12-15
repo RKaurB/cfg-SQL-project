@@ -4,7 +4,11 @@ Relational (academic research) database created using MySQL, as part of the Code
 
 <br>
 
-### _ER diagram:_
+_To be added shortly..._
+
+<br>
+
+### ER diagram:
 
 <br>
 
