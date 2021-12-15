@@ -1,6 +1,6 @@
 # CFG Relational Database Project
 
-Relational(academic research) database created using MySQL, as part of the Code First Girls 8-week Intro to Data &amp; SQL programming course.
+Relational (academic research) database created using MySQL, as part of the Code First Girls 8-week Intro to Data &amp; SQL programming course.
 
 <br>
 
